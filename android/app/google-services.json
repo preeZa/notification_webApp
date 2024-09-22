@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82487684572",
+    "project_id": "notificationwebpreecha",
+    "storage_bucket": "notificationwebpreecha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82487684572:android:1bc450f8330aceb8a4b319",
+        "android_client_info": {
+          "package_name": "com.example.notification_web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpC9Q8bUT0TTlLXf0metRfpZxxgiJQDso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
